@@ -1,0 +1,62 @@
+{
+  "manga_id": "a-dragonslayers-peerless-regression",
+  "title": "A Dragonslayer's Peerless Regression",
+  "alternative_title": "The Dragon Slayer's Boundless Regression / Yongsaljaui Muganhoegwi / 용살자의 무간회귀",
+  "status": "Ongoing",
+  "author": "Blue Duster (푸른먼지)",
+  "artist": "Studio Sol (스튜디오 솔)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Shounen",
+    "Regression",
+    "Martial Arts"
+  ],
+  "type": "Manhwa",
+  "release_year": 2023,
+  "rating": 4.8,
+  "synopsis": "Setelah pertempuran berdarah yang melelahkan melawan naga kehancuran yang membumihanguskan dunia, sang pahlawan pembantai naga terakhir mendapati dirinya terlempar kembali ke masa lalu, tepat sebelum semua tragedi dimulai. Berbekal ingatan masa depan, pengalaman tempur absolut, dan tekad yang membara, ia bersumpah untuk melampaui batas kemampuannya di masa lalu demi melindungi semua yang pernah hilang dan memastikan kehancuran total bagi ras naga.",
+  "cover_url": "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/cover.jpg",
+  "chapters": [
+    {
+      "chapter_number": "1",
+      "chapter_title": "Prologue: Akhir dari Keputusasaan",
+      "images": [
+        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-001/001_p1.jpg",
+        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-001/002_p2.jpg",
+        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-001/003_p3.jpg",
+        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-001/004_p4.jpg",
+        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-001/005_p5.jpg",
+        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-001/006_p6.jpg",
+        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-001/007_p7.jpg"
+      ]
+    },
+    {
+      "chapter_number": "2",
+      "chapter_title": "Kembali ke Titik Nol",
+      "images": [
+        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-002/001_p1.jpg",
+        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-002/002_p2.jpg",
+        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-002/003_p3.jpg",
+        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-002/004_p4.jpg",
+        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-002/005_p5.jpg",
+        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-002/006_p6.jpg",
+        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-002/007_p7.jpg",
+        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-002/008_p8.jpg"
+      ]
+    },
+    {
+      "chapter_number": "3",
+      "chapter_title": "Ujian Pertama Sang Pembantai Naga",
+      "images": [
+        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-003/001_p1.jpg",
+        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-003/002_p2.jpg",
+        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-003/003_p3.jpg",
+        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-003/004_p4.jpg",
+        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-003/005_p5.jpg",
+        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-003/006_p6.jpg"
+      ]
+    }
+  ]
+}
